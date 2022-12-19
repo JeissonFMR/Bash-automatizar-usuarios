@@ -1,8 +1,8 @@
 # Notas 
 
 * Este pequeño script fue creado en Bash y lo que realiza es la automatizacion de:
-    >✅**Listar todos los usuarios (etc/passwd)**
-    >✅**Listar usuarios registrados del sistema**
+    -✅**Listar todos los usuarios (etc/passwd)**
+    *✅**Listar usuarios registrados del sistema**
     >✅**Crear nuevo usuario en el sistema**
     >✅**Eliminar usuario del sistema**
 
