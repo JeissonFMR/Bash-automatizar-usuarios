@@ -11,5 +11,5 @@ Este pequeño script fue creado en Bash y lo que realiza es la automatizacion de
 USO:
 1. Le debes dar permisos de ejecución: chmod 777 scripting.sh
 
-![Image text](https://github.com/JeissonFMR/Bash-automatizar-usuarios/blob/main/Uso.png)
+![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
 ```
