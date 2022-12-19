@@ -11,5 +11,5 @@ Este pequeño script fue creado en Bash y lo que realiza es la automatizacion de
 USO:
 1. Le debes dar permisos de ejecución: chmod 777 scripting.sh
 
-![Imagen de interfaz](https://respuestasrapidas.com.mx/wp-content/uploads/2022/06/las-novedades-m-s-importantes-del-microsoft-ignite-2021---innovar-tecnolog-as-1-800x445.png)
+![Image text](https://github.com/JeissonFMR/Bash-automatizar-usuarios/blob/main/Uso.png)
 ```
