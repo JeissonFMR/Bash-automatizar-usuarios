@@ -11,5 +11,5 @@ Este pequeño script fue creado en Bash y lo que realiza es la automatizacion de
 USO:
 1. Le debes dar permisos de ejecución: chmod 777 scripting.sh
 
-![Imagen de interfaz](/Uso.png "Uso del script")
+![Imagen de interfaz](Uso.png/)
 ```
