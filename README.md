@@ -1,6 +1,6 @@
 # Notas 
 
-Este pequeño script fue creado en Bash y lo que realiza es la automatizacion de:
+Este pequeño script fue creado en Bash y lo que realiza es la automatizacion de:\n
     ✅Listar todos los usuarios (etc/passwd)
     ✅Listar usuarios registrados del sistema
     ✅Crear nuevo usuario en el sistema
@@ -9,7 +9,6 @@ Este pequeño script fue creado en Bash y lo que realiza es la automatizacion de
 
 ```
 USO:
-1. Le debes dar permisos de ejecución: chmod 777 scripting.sh
-
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+1. Le debes dar permisos de ejecución: 
+            -> **chmod 777 scripting.sh**
 ```
