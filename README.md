@@ -1,13 +1,13 @@
 # Notas 
 
 * Este pequeño script fue creado en Bash y lo que realiza es la automatizacion de:
-    -✅**Listar todos los usuarios (etc/passwd)**
-    *✅**Listar usuarios registrados del sistema**
-    >✅**Crear nuevo usuario en el sistema**
-    >✅**Eliminar usuario del sistema**
+    1. ✅**Listar todos los usuarios (etc/passwd)**
+    2. ✅**Listar usuarios registrados del sistema**
+    3. ✅**Crear nuevo usuario en el sistema**
+    4. ✅**Eliminar usuario del sistema**
 
 ```
 USO:
-1. Le debes dar permisos de ejecución:     
+Primero: Debes darle permisos de ejecución al script:     
 ➡️ chmod 777 scripting.sh**
 ```
